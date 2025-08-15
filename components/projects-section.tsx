@@ -13,6 +13,7 @@ const projects = [
     technologies: ["Next.js", "TypeScript", "Tailwind CSS", "React"],
     status: "completed",
     image: "/api/placeholder/400/300",
+    githubUrl: "https://github.com/AlexFandila/developer-portfolio", // ← Agregar esta línea
   },
   {
     title: "Proyectos Backend",
@@ -120,7 +121,7 @@ export function ProjectsSection() {
                           size="sm" 
                           variant="outline" 
                           className="flex-1"
-                          onClick={() => window.open('https://github.com/tu-usuario/portfolio', '_blank')}
+                          onClick={() => window.open('https://github.com/AlexFandila/developer-portfolio', '_blank')}
                         >
                           <Github className="h-4 w-4 mr-2" />
                           Código
