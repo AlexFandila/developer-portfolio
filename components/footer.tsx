@@ -30,10 +30,10 @@ export function Footer() {
           <div className="space-y-4">
             <h4 className="text-sm font-semibold text-foreground">Conecta Conmigo</h4>
             <div className="flex space-x-4">
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors" aria-label="GitHub">
+              <a href="https://github.com/AlexFandila" className="text-muted-foreground hover:text-primary transition-colors" aria-label="GitHub">
                 <Github className="h-5 w-5" />
               </a>
-              <a href="#" className="text-muted-foreground hover:text-primary transition-colors" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/in/alejandro-fandila-dev/" className="text-muted-foreground hover:text-primary transition-colors" aria-label="LinkedIn">
                 <Linkedin className="h-5 w-5" />
               </a>
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors" aria-label="Twitter">
@@ -47,7 +47,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 pt-8 border-t text-center">
-          <p className="text-sm text-muted-foreground">© 2024 DevPortfolio. Todos los derechos reservados.</p>
+          <p className="text-sm text-muted-foreground">© 2025 DevPortfolio. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
