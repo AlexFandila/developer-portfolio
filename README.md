@@ -1,5 +1,8 @@
 # 🚀 Portfolio Personal - Desarrollador Full Stack
 
+[![Deploy on Vercel](https://img.shields.io/badge/Deploy-Live%20Demo-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://developer-portfolio-rcqa6siua-alexfandila-3333s-projects.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexFandila/developer-portfolio)
+
 Mi portfolio personal desarrollado con Next.js 14, TypeScript y Tailwind CSS, diseñado para mostrar mi experiencia como desarrollador backend especializado en Java y Spring Boot.
 
 ## 🌐 Demo en Vivo
