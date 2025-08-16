@@ -17,7 +17,7 @@ export function HeroSection() {
           <ScrollReveal direction="up" delay={300}>
             <p className="text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
               Apasionado por crear soluciones digitales innovadoras. Especializado en tecnologías modernas del
-              desarrollo web y siempre explorando nuevas herramientas.
+              desarrollo web y siempre explorando nuevas herramientas. Interesado en herramientas IA.
             </p>
           </ScrollReveal>
 
