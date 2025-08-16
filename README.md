@@ -5,9 +5,6 @@
 
 Mi portfolio personal desarrollado con Next.js 14, TypeScript y Tailwind CSS, diseñado para mostrar mi experiencia como desarrollador backend especializado en Java y Spring Boot.
 
-## 🌐 Demo en Vivo
-[Ver Portfolio](https://tu-portfolio.vercel.app) *(Próximamente disponible)*
-
 ## 📸 Vista Previa
 Un portfolio moderno con diseño responsive, tema oscuro y animaciones suaves que incluye:
 - **Hero Section** con presentación personal
